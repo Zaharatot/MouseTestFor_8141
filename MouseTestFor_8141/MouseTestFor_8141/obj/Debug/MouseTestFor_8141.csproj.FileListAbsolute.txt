@@ -6,3 +6,4 @@ H:\MouseTestFor_8141\MouseTestFor_8141\MouseTestFor_8141\obj\Debug\MouseTestFor_
 H:\MouseTestFor_8141\MouseTestFor_8141\MouseTestFor_8141\obj\Debug\MouseTestFor_8141.csproj.CoreCompileInputs.cache
 H:\MouseTestFor_8141\MouseTestFor_8141\MouseTestFor_8141\obj\Debug\MouseTestFor_8141.exe
 H:\MouseTestFor_8141\MouseTestFor_8141\MouseTestFor_8141\obj\Debug\MouseTestFor_8141.pdb
+H:\MouseTestFor_8141\MouseTestFor_8141\MouseTestFor_8141\obj\Debug\MouseTestFor_8141.csprojAssemblyReference.cache

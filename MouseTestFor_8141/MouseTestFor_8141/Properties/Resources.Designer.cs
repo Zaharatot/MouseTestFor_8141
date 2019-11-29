@@ -63,9 +63,9 @@ namespace MouseTestFor_8141.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream Windows_Default {
+        internal static System.IO.UnmanagedMemoryStream Sound_21087 {
             get {
-                return ResourceManager.GetStream("Windows_Default", resourceCulture);
+                return ResourceManager.GetStream("Sound_21087", resourceCulture);
             }
         }
     }

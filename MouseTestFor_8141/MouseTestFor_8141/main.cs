@@ -50,7 +50,7 @@ namespace MouseTestFor_8141
             //Указываем, что звук не нужен
             sound = false;
             //Инициализируем плеер звуком
-            player = new SoundPlayer(Properties.Resources.Windows_Default);
+            player = new SoundPlayer(Properties.Resources.Sound_21087);
 
 
             //Добавляем обработчик события нажатия кнопки мыши
